@@ -33,5 +33,5 @@ Another element of fair use suggests that it is acceptable to use copyrighted ma
 Galleries may be on very shaky ground when it comes to fair use images. It's probably best to avoid them entirely and stick to public domain and freely licensed images.
 
 <hr>
-<img src="">
+<img src="https://github.com/yashksingh/IMAGE_Gallery-1/blob/main/Wiki_Images/jocke-wulcan-x06GnxyMLnc-unsplash.jpg">
 <hr>
